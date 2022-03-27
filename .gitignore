@@ -1,7 +1,7 @@
 target/
 .idea/
 .settings/
-screenshot/
+screenshots/
 drivers/
 .DS_Store
 .AppleDouble
